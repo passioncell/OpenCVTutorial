@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="004_videoRead.cpp" />
+    <ClCompile Include="005_matBasicFunction4.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{58D0F31E-AF97-436D-89B7-F9ECDAC23ACA}</ProjectGuid>
